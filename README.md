@@ -1,8 +1,8 @@
 ### Hi there, I'm Somesh 👋
 
-> I am a tech geek from state Rajasthan, India :india: and currently living in Bangalore.<br/>
-> I am a Red Hat Certified Engineer (RHCE) and working as an SRE/DevOps since 2014.<br/>
-> I am a dreamer who see the best in everything and not afraid of work hard to achieve my goals.<br/>
+> I'm a tech geek from state Rajasthan, India :india: and currently living in Bangalore.<br/>
+> I'm a Red Hat Certified Engineer (RHCE) and working as an SRE/DevOps since 2014.<br/>
+> I'm a dreamer who see the best in everything and not afraid of work hard to achieve my goals.<br/>
 > I lives simple life and appreciate the little thing.<br/>
 
 **For the past 7 years I have been helping Startups, Engineers and Entrepreneurs in DevOps, Automation, Public Cloud and Inhouse DC.<br/>**
@@ -11,16 +11,16 @@
 
 
 ### 🔭 I’m currently working on
-Automate things, Following the KISS and DRY Principles
+Automate things, Following the KISS and DRY Principles :metal:
 
 ### 🌱 I’m currently learning
 GCP, AWS, Azure, Python, Ansible, Kubernetes
 
 ### 👯 I’m looking to collaborate on
-Any interesting techology, tips and tricks :smile:
+Any interesting techology, Tips and Tricks :smile:
 
 ### 💬 Ask me about
-DevOps / SRE / :running_shirt_with_sash: / :badminton:
+DevOps / SRE / :running_shirt_with_sash: / :running_man: / :badminton:
 
 ### 📫 How to reach me
 [<img title="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />](https://www.linkedin.com/in/someshprajapati/)
