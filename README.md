@@ -1,12 +1,12 @@
 ### Hi there, I'm Somesh 👋
 
-> I'm a tech geek from state Rajasthan, India :india: and currently living in Bangalore.<br/>
-> I'm a Red Hat Certified Engineer (RHCE) and working as an SRE/DevOps since 2014.<br/>
-> I'm a dreamer who see the best in everything and not afraid of work hard to achieve my goals.<br/>
-> I lives simple life and appreciate the little thing.<br/>
+> I'm a tech geek from state Rajasthan (Land of Kings), India :india: and currently living in Bangalore.<br/>
+> I'm a Red Hat Certified Engineer (RHCE) and currently working as an Senior Site Reliability Engineer.<br/>
+> I'm a dreamer who see the best in everything and always eager to learn new things.<br/>
+> I lives simple life and appreciate the little things.<br/>
 
 **For the past 7 years I have been helping Startups, Engineers and Entrepreneurs in DevOps, Automation, Public Cloud and Inhouse DC.<br/>**
-* I have experience as a DevOps Engineer to create In-house Data Center from scratch.<br/>
+* I have experience as a DevOps Engineer to create In-house geographically distributed data center from scratch.<br/>
 * I have experience leading a SRE team to build stuff in automated way from scratch.<br/>
 
 
@@ -14,7 +14,7 @@
 Automate things, Following the KISS and DRY Principles :metal:
 
 ### 🌱 I’m currently learning
-GCP, AWS, Azure, Python, Ansible, Kubernetes
+GCP, AWS, Azure, Python, Ansible, Docker, Kubernetes
 
 ### 👯 I’m looking to collaborate on
 Any interesting techology, Tips and Tricks :smile:
