@@ -48,6 +48,9 @@ DevOps / SRE / :running_shirt_with_sash: / :running_man: / :badminton:
 <img title="PostgreSql" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/postgresql.svg" />
 <img title="JIRA" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/jira.svg" />
 <img title="BitBucket" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/bitbucket.svg" />
+<img title="GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
+<img title="Terraform" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/terraform.svg" />
+<img title="Cassandra" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/apachecassandra.svg" />
 
 
 [![Somesh's github stats](https://github-readme-stats.vercel.app/api?username=someshprajapati&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
