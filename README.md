@@ -5,7 +5,7 @@
 > I'm a dreamer who see the best in everything and always eager to learn new things.<br/>
 > I lives simple life and appreciate the little things.<br/>
 
-**For the past 7 years I have been helping Startups, Engineers and Entrepreneurs in DevOps, Automation, Public Cloud and Inhouse DC.<br/>**
+**For the past 8 years I have been helping Startups, Engineers and Entrepreneurs in DevOps, Automation, Public Cloud and Inhouse DC.<br/>**
 * I have experience as a DevOps Engineer to create geographically distributed In-house data center from scratch.<br/>
 * I have experience leading a SRE team to build stuff in automated way from scratch.<br/>
 
@@ -14,7 +14,7 @@
 Automate things, Following the KISS and DRY Principles :metal:
 
 ### 🌱 I’m currently learning
-GCP, AWS, Azure, Python, Ansible, Docker, Kubernetes
+GCP, AWS, Python, Ansible, Docker, Kubernetes, Apache Kafka, ZooKeeper, Apache Storm, Packer, SignalFx
 
 ### 👯 I’m looking to collaborate on
 Any interesting techology, Tips and Tricks :smile:
@@ -52,6 +52,7 @@ DevOps / SRE / :running_shirt_with_sash: / :running_man: / :badminton:
 <img title="Terraform" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/terraform.svg" />
 <img title="Cassandra" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/apachecassandra.svg" />
 <img title="Packer" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/packer.svg" />
+<img title="Apache Kafka" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/apachekafka.svg" />
 
 
 [![Somesh's github stats](https://github-readme-stats.vercel.app/api?username=someshprajapati&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
