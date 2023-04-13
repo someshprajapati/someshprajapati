@@ -44,8 +44,8 @@ DevOps / SRE / :running_shirt_with_sash: / :running_man: / :badminton:
 > <img title="Azure" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/microsoftazure.svg" />
 > <img title="AWS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/amazonaws.svg" />
 <br/>
-* <img title="Redhat" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/redhat.svg" />
-* <img title="Jenkins" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/jenkins.svg" />
+> <img title="Redhat" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/redhat.svg" />
+> <img title="Jenkins" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/jenkins.svg" />
 <br/>
 > <img title="Docker" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/docker.svg" />
 > <img title="Kubernetes" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/kubernetes.svg" />
