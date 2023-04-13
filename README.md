@@ -44,25 +44,25 @@ DevOps / SRE / :running_shirt_with_sash: / :running_man: / :badminton:
 > <img title="Azure" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/microsoftazure.svg" />
 > <img title="AWS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/amazonaws.svg" />
 <br/>
-<img title="Redhat" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/redhat.svg" />
-<img title="Jenkins" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/jenkins.svg" />
+> <img title="Redhat" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/redhat.svg" />
+> <img title="Jenkins" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/jenkins.svg" />
 <br/>
-<img title="Docker" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/docker.svg" />
-<img title="Kubernetes" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/kubernetes.svg" />
+> <img title="Docker" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/docker.svg" />
+> <img title="Kubernetes" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/kubernetes.svg" />
 <br/>
-<img title="JIRA" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/jira.svg" />
-<img title="BitBucket" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/bitbucket.svg" />
-<img title="GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/github.svg" />
+> <img title="JIRA" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/jira.svg" />
+> <img title="BitBucket" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/bitbucket.svg" />
+> <img title="GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/github.svg" />
 <br/>
-<img title="Terraform" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/terraform.svg" />
-<img title="Ansible" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/ansible.svg" />
-<img title="Packer" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/packer.svg" />
+> <img title="Terraform" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/terraform.svg" />
+> <img title="Ansible" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/ansible.svg" />
+> <img title="Packer" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/packer.svg" />
 <br/>
-<img title="Cassandra" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/apachecassandra.svg" />
-<img title="PostgreSql" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/postgresql.svg" />
+> <img title="Cassandra" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/apachecassandra.svg" />
+> <img title="PostgreSql" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/postgresql.svg" />
 <br/>
-<img title="Apache Kafka" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/apachekafka.svg" />
-<img title="Nginx" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/nginx.svg" />
+> <img title="Apache Kafka" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/apachekafka.svg" />
+> <img title="Nginx" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/nginx.svg" />
 
 
 [![Somesh's github stats](https://github-readme-stats.vercel.app/api?username=someshprajapati&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
