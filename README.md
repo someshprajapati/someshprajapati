@@ -34,12 +34,12 @@ DevOps / SRE / :running_shirt_with_sash: / :running_man: / :badminton:
 [You can visit the world’s first webpage even today](http://info.cern.ch/hypertext/WWW/TheProject.html)
 
 
-**Languages**<br/><br/>
+### 👨🏻‍💻 Languages
 <img title="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gnubash.svg" />
 <img title="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/python.svg" />
 <br/>
 
-<br/>**Tools**<br/>
+### 👨🏻‍💻 Tools
 > <img title="GCP" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/googlecloud.svg" />
 > <img title="Azure" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/microsoftazure.svg" />
 > <img title="AWS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/amazonaws.svg" />
@@ -80,4 +80,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<br/>**Tools**<br/>
 -->
