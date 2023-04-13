@@ -5,16 +5,20 @@
 > I'm a dreamer who see the best in everything and always eager to learn new things.<br/>
 > I live simple life and appreciate the little things.<br/>
 
-**For the past 8 years I have been helping Startups, Engineers and Entrepreneurs in DevOps, Automation, Public Cloud and Inhouse DC.<br/>**
+**For the past 9 years I have been helping Startups, Engineers and Entrepreneurs in DevOps, Automation, Public Cloud and Inhouse DC.<br/>**
 * I have experience as a DevOps Engineer to create geographically distributed In-house data center from scratch.<br/>
 * I have experience leading a SRE team to build stuff in automated way from scratch.<br/>
 
 
 ### 🔭 I’m currently working on
-Automate things, Following the KISS and DRY Principles :metal:
+* Automate things, Following the KISS and DRY Principles :metal:
+* Kubernetes
+* Apache Kafka, ZooKeeper
+* Apache Storm
+* SignalFx, Prometheus, Grafana
 
 ### 🌱 I’m currently learning
-GCP, AWS, Python, Ansible, Docker, Kubernetes, Apache Kafka, ZooKeeper, Apache Storm, Packer, SignalFx
+GCP, AWS, Python, Ansible, Docker, Kubernetes, Apache Kafka, ZooKeeper, Apache Storm, Packer, SignalFx, Prometheus, Grafana
 
 ### 👯 I’m looking to collaborate on
 Any interesting techology, Tips and Tricks :smile:
@@ -36,10 +40,10 @@ DevOps / SRE / :running_shirt_with_sash: / :running_man: / :badminton:
 <br/>
 
 <br/>**Tools**<br/>
+* <img title="GCP" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/googlecloud.svg" />
+* <img title="Azure" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/microsoftazure.svg" />
+* <img title="AWS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/amazonaws.svg" /> <br/>
 <img title="Redhat" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/redhat.svg" />
-<img title="GCP" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/googlecloud.svg" />
-<img title="Azure" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/microsoftazure.svg" />
-<img title="AWS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/amazonaws.svg" />
 <img title="Ansible" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/ansible.svg" />
 <img title="Jenkins" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/jenkins.svg" />
 <img title="Docker" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/docker.svg" />
