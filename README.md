@@ -10,25 +10,30 @@
 * I have experience leading a SRE team to build stuff in automated way from scratch.<br/>
 
 
-> ### 🔭 I’m currently working on
+> ### I’m currently working on 🔭 
 **Automate things, Following the KISS and DRY Principles :metal:**
 * Kubernetes
 * Apache Kafka, ZooKeeper
 * Apache Storm
 * SignalFx, Prometheus, Grafana
 
+
 > ### I’m currently learning 🌱 
 GCP, AWS, Python, Ansible, Docker, Kubernetes, Apache Kafka, ZooKeeper, Apache Storm, Packer, SignalFx, Prometheus, Grafana
+
 
 > ### I’m looking to collaborate on 👯 
 Any interesting techology, Tips and Tricks :smile:
 
+
 > ### Ask me about 💬 
 DevOps / SRE / :running_shirt_with_sash: / :running_man: / :badminton:
+
 
 > ### How to reach me 📫 
 [<img title="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />](https://www.linkedin.com/in/someshprajapati/)
 [<img title="Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />](https://twitter.com/PrajapatSomesh)
+
 
 > ### Fun fact ⚡ 
 [You can visit the world’s first webpage even today](http://info.cern.ch/hypertext/WWW/TheProject.html)
@@ -38,6 +43,7 @@ DevOps / SRE / :running_shirt_with_sash: / :running_man: / :badminton:
 <img title="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gnubash.svg" />
 <img title="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/python.svg" />
 <br/>
+
 
 > ### Tools 👨🏻‍💻 
 <img title="GCP" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/googlecloud.svg" />
@@ -74,5 +80,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<br/>**Tools**<br/>
 -->
