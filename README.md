@@ -40,8 +40,8 @@ DevOps / SRE / :running_shirt_with_sash: / :running_man: / :badminton:
 <br/>
 
 > ### Languages 👨🏻‍💻 
-<img title="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gnubash.svg" />
-<img title="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/python.svg" />
+[<img title="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gnubash.svg" />]
+[<img title="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/python.svg" />]
 <br/>
 
 > ### Tools 👨🏻‍💻 
