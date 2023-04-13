@@ -11,7 +11,7 @@
 
 
 ### 🔭 I’m currently working on
-* Automate things, Following the KISS and DRY Principles :metal:
+> Automate things, Following the KISS and DRY Principles :metal:
 * Kubernetes
 * Apache Kafka, ZooKeeper
 * Apache Storm
@@ -40,9 +40,10 @@ DevOps / SRE / :running_shirt_with_sash: / :running_man: / :badminton:
 <br/>
 
 <br/>**Tools**<br/>
-* <img title="GCP" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/googlecloud.svg" />
-* <img title="Azure" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/microsoftazure.svg" />
-* <img title="AWS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/amazonaws.svg" /> <br/>
+<img title="GCP" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/googlecloud.svg" />
+<img title="Azure" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/microsoftazure.svg" />
+<img title="AWS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/amazonaws.svg" />
+<br/>
 <img title="Redhat" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/redhat.svg" />
 <img title="Ansible" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/ansible.svg" />
 <img title="Jenkins" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/jenkins.svg" />
