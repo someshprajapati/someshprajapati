@@ -31,20 +31,24 @@ Any interesting techology, Tips and Tricks :smile:
 > ### Ask me about 💬 
 DevOps / SRE / :running_shirt_with_sash: / :running_man: / :badminton:
 <br/>
+<br/>
 
 > ### How to reach me 📫 
 [<img title="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />](https://www.linkedin.com/in/someshprajapati/)
 [<img title="Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />](https://twitter.com/PrajapatSomesh)
 <br/>
+<br/>
 
 > ### Fun fact ⚡ 
 [You can visit the world’s first webpage even today](http://info.cern.ch/hypertext/WWW/TheProject.html)
+<br/>
 <br/>
 
 > ### Languages 👨🏻‍💻 
 
 <img title="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gnubash.svg" />
 <img title="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/python.svg" />
+<br/>
 <br/>
 
 > ### Tools 👨🏻‍💻 
