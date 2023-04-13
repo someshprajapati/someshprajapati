@@ -1,4 +1,4 @@
-> ### Hi there, I'm Somesh 👋
+### Hi there, I'm Somesh 👋
 
 > I'm a tech geek from state Rajasthan (Land of Kings), India :india: and currently living in Bangalore.<br/>
 > I'm a Red Hat Certified Engineer (RHCE) and currently working as a Senior Site Reliability Engineer.<br/>
@@ -10,7 +10,7 @@
 * I have experience leading a SRE team to build stuff in automated way from scratch.<br/>
 
 
-### 🔭 I’m currently working on
+> ### 🔭 I’m currently working on
 > Automate things, Following the KISS and DRY Principles :metal:
 * Kubernetes
 * Apache Kafka, ZooKeeper
