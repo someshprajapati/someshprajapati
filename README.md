@@ -13,6 +13,7 @@ I'm a Senior Site Reliability Engineer with 10+ years of experience helping star
 ### 🌱 What I’m currently learning
 - **Python**, **Shell Scripting** for automation
 - **Prometheus** and **Grafana** for monitoring
+- **EKS** and **GKE** for managing microservices on Kubernetes
 
 ### 💻 Skills & Tools
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -41,7 +42,7 @@ I'm a Senior Site Reliability Engineer with 10+ years of experience helping star
 - Cloud-native projects using **Kubernetes**
 - Automation tools and frameworks
 
-### 🔧 Featured Projects (Private Repo)
+### 🔧 Featured Projects
 - [**Apache Storm**](https://github.com/someshprajapati/apache-storm) - Learning Apache Storm.
 - [**AWS Infrastructure as Code**](https://github.com/someshprajapati/aws-iac) - Automating AWS infrastructure deployment with Terraform and Packer.
 
@@ -50,7 +51,10 @@ I'm a Senior Site Reliability Engineer with 10+ years of experience helping star
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/PrajapatSomesh)
 
 ### ⚡ Fun Facts
-- I'm a badminton enthusiast 🏸
-- [You can visit the world’s first webpage even today](http://info.cern.ch/hypertext/WWW/TheProject.html)
+- [You can visit the world’s first webpage even today](http://info.cern.ch/hypertext/WWW/TheProject.html) 🌐
+
+### Outside of Work
+- **Badminton Enthusiast**: Passionate about playing badminton and staying active on the court. 🏸
+- **Seasonal Runner**: Enjoy running throughout the year, with a focus on setting and achieving personal running goals each season. 🏃‍♂️
 
 ![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=someshprajapati&show_icons=true&theme=radical)
