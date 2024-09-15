@@ -1,88 +1,56 @@
-### Hi there, I'm Somesh 👋
+## Hi, I'm Somesh! 👋
+I'm a Senior Site Reliability Engineer with 10+ years of experience helping startups and engineers optimize their infrastructure. I'm passionate about automation, DevOps, and cloud technologies.
 
-> I'm a tech geek from state Rajasthan (Land of Kings), India :india: and currently living in Bangalore.<br/>
-> I'm a Red Hat Certified Engineer (RHCE) and currently working as a Senior Site Reliability Engineer.<br/>
-> I'm a dreamer who see the best in everything and always eager to learn new things.<br/>
-> I live simple life and appreciate the little things.<br/>
+### 🔭 What I’m currently working on
+- Automating infrastructure using **Terraform** and **Ansible**
+- Building highly available Kubernetes clusters in **AWS** and **GCP**
+- Exploring **Apache Kafka** for real-time data streaming
+- Exploring **Apache Storm** for real-time processing with low latency
+- Exploring **Apache Flink** for stream processing framework for real-time analytics
+- Exploring **Apache Cassandra** for distributed database management
+- Exploring **Jenkins** for automation in CI/CD pipelines
 
-**For the past 9 years I have been helping Startups, Engineers and Entrepreneurs in DevOps, Automation, Public Cloud and Inhouse DC.<br/>**
-* I have experience as a DevOps Engineer to create geographically distributed In-house data center from scratch.<br/>
-* I have experience leading a SRE team to build stuff in automated way from scratch.<br/>
-<br/>
+### 🌱 What I’m currently learning
+- **Python**, **Shell Scripting** for automation
+- **Prometheus** and **Grafana** for monitoring
 
-> ### I’m currently working on 🔭 
-**Automate things, Following the KISS and DRY Principles :metal:**
-* Kubernetes
-* Apache Kafka, ZooKeeper
-* Apache Storm
-* SignalFx, Prometheus, Grafana
-<br/>
+### 💻 Skills & Tools
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redhat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![BitBucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
+![Apache Storm](https://img.shields.io/badge/Apache%20Storm-62B0E8?style=for-the-badge&logo=apachestorm&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-> ### I’m currently learning 🌱 
-GCP, AWS, Python, Ansible, Docker, Kubernetes, Apache Kafka, ZooKeeper, Apache Storm, Packer, SignalFx, Prometheus, Grafana
-<br/>
-<br/>
 
-> ### I’m looking to collaborate on 👯 
-Any interesting techology, Tips and Tricks :smile:
-<br/>
-<br/>
+### 👯 I’m looking to collaborate on
+- Cloud-native projects using **Kubernetes**
+- Automation tools and frameworks
 
-> ### Ask me about 💬 
-DevOps / SRE / :running_shirt_with_sash: / :running_man: / :badminton:
-<br/>
-<br/>
+### 🔧 Featured Projects
+- [**Kubernetes Auto-Scaler**](https://github.com/someshprajapati/k8s-auto-scaler) - A custom Kubernetes auto-scaler that optimizes pod resource usage.
+- [**AWS Infrastructure as Code**](https://github.com/someshprajapati/aws-iac) - Automating AWS infrastructure deployment with Terraform and Packer.
 
-> ### How to reach me 📫 
-[<img title="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />](https://www.linkedin.com/in/someshprajapati/)
-[<img title="Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />](https://twitter.com/PrajapatSomesh)
-<br/>
-<br/>
+### 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/someshprajapati/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/PrajapatSomesh)
 
-> ### Fun fact ⚡ 
-[You can visit the world’s first webpage even today](http://info.cern.ch/hypertext/WWW/TheProject.html)
-<br/>
-<br/>
+### ⚡ Fun Facts
+- I'm a badminton enthusiast 🏸
+- I enjoy reading about space and astrophysics 🌌
 
-> ### Languages 👨🏻‍💻 
-
-<img title="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gnubash.svg" /><img title="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/python.svg" />
-<br/>
-<br/>
-
-> ### Tools 👨🏻‍💻 
-<img title="GCP" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/googlecloud.svg" /><img title="Azure" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/microsoftazure.svg" />
-<img title="AWS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/amazonaws.svg" />
-<img title="Redhat" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/redhat.svg" />
-<img title="Jenkins" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/jenkins.svg" />
-<img title="Docker" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/docker.svg" />
-<img title="Kubernetes" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/kubernetes.svg" />
-<img title="JIRA" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/jira.svg" />
-<img title="BitBucket" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/bitbucket.svg" />
-<img title="GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/github.svg" />
-<img title="Terraform" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/terraform.svg" />
-<img title="Ansible" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/ansible.svg" />
-<img title="Packer" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/packer.svg" />
-<img title="Cassandra" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/apachecassandra.svg" />
-<img title="PostgreSql" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/postgresql.svg" />
-<img title="Apache Kafka" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/apachekafka.svg" />
-<img title="Nginx" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/nginx.svg" />
-<br/>
-<br/>
-
-[![Somesh's github stats](https://github-readme-stats.vercel.app/api?username=someshprajapati&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**someshprajapati/someshprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=someshprajapati&show_icons=true&theme=radical)
