@@ -41,8 +41,8 @@ I'm a Senior Site Reliability Engineer with 10+ years of experience helping star
 - Cloud-native projects using **Kubernetes**
 - Automation tools and frameworks
 
-### 🔧 Featured Projects
-- [**Kubernetes Auto-Scaler**](https://github.com/someshprajapati/k8s-auto-scaler) - A custom Kubernetes auto-scaler that optimizes pod resource usage.
+### 🔧 Featured Projects (Private Repo)
+- [**Apache Storm**](https://github.com/someshprajapati/apache-storm) - Learning Apache Storm.
 - [**AWS Infrastructure as Code**](https://github.com/someshprajapati/aws-iac) - Automating AWS infrastructure deployment with Terraform and Packer.
 
 ### 📫 How to reach me:
@@ -51,6 +51,6 @@ I'm a Senior Site Reliability Engineer with 10+ years of experience helping star
 
 ### ⚡ Fun Facts
 - I'm a badminton enthusiast 🏸
-- I enjoy reading about space and astrophysics 🌌
+- [You can visit the world’s first webpage even today](http://info.cern.ch/hypertext/WWW/TheProject.html)
 
 ![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=someshprajapati&show_icons=true&theme=radical)
