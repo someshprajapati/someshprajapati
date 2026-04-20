@@ -4,11 +4,11 @@ I'm a Senior Site Reliability Engineer with 10+ years of experience helping star
 ### 🔭 What I’m currently working on
 - Automating infrastructure using **Terraform** and **Ansible**
 - Building highly available Kubernetes clusters in **AWS** and **GCP**
-- Exploring **Apache Kafka** for real-time data streaming
-- Exploring **Apache Storm** for real-time processing with low latency
-- Exploring **Apache Flink** for stream processing framework for real-time analytics
-- Exploring **Apache Cassandra** for distributed database management
-- Exploring **Jenkins** for automation in CI/CD pipelines
+- Working on **Apache Kafka** for real-time data streaming
+- Working on **Apache Storm** for real-time processing with low latency
+- Working on **Apache Flink** for stream processing framework for real-time analytics
+- Working on **Apache Cassandra** for distributed database management
+- Working on **Jenkins** for automation in CI/CD pipelines
 
 ### 🌱 What I’m currently learning
 - **Python**, **Shell Scripting** for automation
