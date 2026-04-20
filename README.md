@@ -41,9 +41,9 @@ I'm a Senior Site Reliability Engineer with 10+ years of experience helping star
 ### 👯 I’m looking to collaborate on
 - Cloud-native projects using **Kubernetes**
 - Automation tools and frameworks
+- AIOps tool and technology explore
 
 ### 🔧 Featured Projects
-- [**Apache Storm**](https://github.com/someshprajapati/apache-storm) - Learning Apache Storm.
 - [**AWS Infrastructure as Code**](https://github.com/someshprajapati/aws-iac) - Automating AWS infrastructure deployment with Terraform and Packer.
 
 ### 📫 How to reach me:
